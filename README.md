@@ -12,3 +12,5 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+### Application Link
+https://bostonhousepricing303093.herokuapp.com/ 
